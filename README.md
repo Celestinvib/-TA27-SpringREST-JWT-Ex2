@@ -1,1 +1,1 @@
-# -TA27-SpringREST-JWT-Ex2
+# TA27-SpringREST-JWT-Ex2
