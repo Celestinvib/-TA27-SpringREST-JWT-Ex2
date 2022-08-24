@@ -3,8 +3,6 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex2.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex2-jwt.herokuapp.com
-
 ```
 Proyectos
 GET       /api/proyectos
