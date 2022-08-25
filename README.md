@@ -3,7 +3,7 @@
 
 Deploy-Heroku-BasicSecurity -> https://cka-ta27-ex2.herokuapp.com
 
-Deploy-Heroku-JWT -> https://cka-ta27-ex2-jwt.herokuapp.com
+Deploy-Heroku-JWT -> https://cka-ta27-ex2jwt.herokuapp.com
 
 ```
 Proyectos
@@ -28,3 +28,5 @@ PUT       /api/asginacion-proyectos/{id}
 DELETE    /api/asginacion-proyectos/{id}
 
 ```
+
+![Spring2](https://user-images.githubusercontent.com/55434881/186718931-2024b357-6b4b-4545-9c58-9d68339c032f.JPG)
